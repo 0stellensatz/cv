@@ -50,26 +50,46 @@ ul, ol {
   padding-left: 2em;
 }
 
+/* Bold text in dark mode */
+.dark strong,
+.dark b,
+.dark .font-bold {
+  color: var(--text-color);
+}
+
 /* Theme toggle button */
 .theme-toggle {
   position: fixed;
-  top: 1rem;
-  right: 1rem;
-  padding: 0.75rem;
-  border-radius: 9999px;
+  top: 1.5rem;
+  right: 1.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0.5rem;
+  border-radius: 50%;
   background: var(--bg-color);
   border: 1px solid var(--border-color);
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 
   &:hover {
     background: var(--border-color);
+    transform: scale(1.1);
+  }
+
+  .dark & {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
 }
 
-.sun-icon, .moon-icon {
-  display: block;
+.sun-icon,
+.moon-icon {
+  width: 1.2rem;
+  height: 1.2rem;
   color: var(--text-color);
 }
 
@@ -80,7 +100,21 @@ ul, ol {
 
 /* Print styles */
 @media print {
+  body {
+    padding: 0;
+  }
+  
   .theme-toggle {
     display: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: var(--text-color);
+  }
+  
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 90%;
   }
 }
