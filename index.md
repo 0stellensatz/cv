@@ -41,22 +41,6 @@
 
 N/A.
 
-## Teaching
-
-### Teaching Assistant, Tokyo Institute of Technology
-
-**April 2023 — May 2023,** _Linear Algebra I / Recitation_.
-
-**April 2023 — May 2023,** _Advanced Linear Algebra I_.
-
-**June 2023 — July 2023,** _Calculus I / Recitation_.
-
-**June 2023 — July 2023,** _Advanced Linear Algebra II_.
-
-**December 2023 — January 2024,** _Linear Algebra Recitation II_.
-
-**December 2024 — February 2025,** _Algebra_.
-
 ## Professional Service
 
 N/A.
