@@ -1,5 +1,4 @@
 # Curriculum Vitæ
-
 **Name:** Hyeon, Seung-Hyeon ([Hangul](https://en.wikipedia.org/wiki/Hangul): 현승현, [Hanja](https://en.wikipedia.org/wiki/Hanja): 玄承賢)  
 **Date of birth:** November 19, 1999  
 **Nationality:** Republic of Korea  
