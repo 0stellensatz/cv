@@ -19,6 +19,12 @@
 
 1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, [arXiv:2405.16950](https://arxiv.org/abs/2405.16950).
 
+## Talks
+
+1. Ôokayama Daisûkei Wakate Seminar, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
+2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
+3. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
+
 ## Honors
 
 **March 2023,** Tokyo Institute of Technology, _Excellent Student Award for Outstanding Academic Achievement_.
@@ -37,7 +43,7 @@ N/A.
 
 ## Teaching
 
-### Teaching Assistant, Tokyo Institute of Technology / Institute of Science Tokyo
+### Teaching Assistant, Tokyo Institute of Technology
 
 **April 2023 — May 2023,** _Linear Algebra I / Recitation_.
 
@@ -50,12 +56,6 @@ N/A.
 **December 2023 — January 2024,** _Linear Algebra Recitation II_.
 
 **December 2024 — February 2025,** _Algebra_.
-
-## Talks
-
-1. Ôokayama Daisûkei Wakate Seminar, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
-2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
-3. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
 
 ## Professional Service
 
