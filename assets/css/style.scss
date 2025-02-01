@@ -4,24 +4,24 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: Arial, sans-serif;
-  font-size: 1.2rem;
+  font-family: "Cascadia Mono", "Menlo", monospace;
+  font-size: 1rem;
   color: #24292e;
   background-color: #ffffff;
-  max-width: 800px;
+  max-width: 720px;
   margin: 0 auto;
   padding: 2rem;
 }
 
 /* Typography */
 h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin-top: 0;
   margin-bottom: 1em;
 }
 
 h2 {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   margin-top: 1em;
   margin-bottom: 1em;
 }
