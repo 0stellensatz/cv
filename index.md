@@ -17,7 +17,7 @@
 - Anabelian geometry, arithmetic geometry, algebraic geometry, …
 
 ## Papers
-1. Seung-Hyeon Hyeon, _"The $m$-step solvable anabelian geometry of mixed-characteristic local fields"_, [arXiv:2405.16950](https://arxiv.org/abs/2405.16950).
+1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, [arXiv:2405.16950](https://arxiv.org/abs/2405.16950).
 
 ## Honors
 - **March 2023,** Tokyo Institute of Technology, _Excellent Student Award for Outstanding Academic Achievement_.
@@ -40,9 +40,9 @@ N/A.
     - **December 2024 — February 2025,** _Algebra_. (MCS.T231)
 
 ## Talks
-1. Ôokayama Daisûkei Wakate Seminar, _"The $m$-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
-2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The $m$-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
-3. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The $m$-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
+1. Ôokayama Daisûkei Wakate Seminar, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
+2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
+3. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
 
 ## Professional Service
 N/A.
