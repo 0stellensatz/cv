@@ -49,3 +49,38 @@ a {
 ul, ol {
   padding-left: 2em;
 }
+
+/* Theme toggle button */
+.theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.75rem;
+  border-radius: 9999px;
+  background: var(--bg-color);
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: background-color 0.3s;
+  z-index: 1000;
+
+  &:hover {
+    background: var(--border-color);
+  }
+}
+
+.sun-icon, .moon-icon {
+  display: block;
+  color: var(--text-color);
+}
+
+.dark .sun-icon,
+:not(.dark) .moon-icon {
+  display: none;
+}
+
+/* Print styles */
+@media print {
+  .theme-toggle {
+    display: none;
+  }
+}
