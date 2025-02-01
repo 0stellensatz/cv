@@ -13,21 +13,30 @@
       function setTheme(isDark) {
         document.documentElement.classList.toggle('dark', isDark);
         localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        updateThemeText(isDark);
+      }
+
+      function updateThemeText(isDark) {
+        const themeLink = document.getElementById('theme-toggle');
+        themeLink.textContent = isDark ? 'Light mode' : 'Dark mode';
       }
 
       // Initialize theme
       function initializeTheme() {
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
         const storedTheme = localStorage.getItem('theme');
-        if (storedTheme === 'dark' || (!storedTheme && prefersDark)) {
+        const isDark = storedTheme === 'dark' || (!storedTheme && prefersDark);
+        if (isDark) {
           setTheme(true);
         }
+        updateThemeText(isDark);
       }
 
       // Theme toggle listener
       function toggleTheme() {
-        const isDark = document.documentElement.classList.toggle('dark');
+        const isDark = !document.documentElement.classList.toggle('dark');
         setTheme(isDark);
+        return false;  // Prevent default link behavior
       }
 
       // Execute when DOM is loaded
@@ -36,10 +45,9 @@
 </head>
 <body>
     <div class="wrapper">
-        <label class="ios-toggle">
-            <input type="checkbox" onclick="toggleTheme()" />
-            <span class="slider"></span>
-        </label>
+        <div class="theme-text">
+            <a href="#" id="theme-toggle" onclick="return toggleTheme()">Dark mode</a>
+        </div>
         {{ content }}
     </div>
 </body>
