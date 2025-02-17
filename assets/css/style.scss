@@ -2,9 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 body {
-  font-family: "Cascadia Mono", "Menlo", monospace;
+  font-family: "JetBrains Mono", "Cascadia Mono", "Menlo", monospace;
   font-size: 1rem;
   font-weight: 500;
   background-color: #ffffff;
