@@ -1,12 +1,11 @@
-# Hyeon, Seung-Hyeon 玄承賢
+# Hyeon, Seung-Hyeon
 
 **Date of birth:** November 19, 1999  
 **Nationality:** Republic of Korea  
-**Pronouns:** he/him  
-**Research interests:** algebraic number theory, valued fields, ...  
 **Email:** [0stellensatz@gmail.com](mailto:0stellensatz@gmail.com)  
 **Homepage:** [nullstellensatz.org](https://nullstellensatz.org)  
 **ORCID:** [0009-0006-9079-7077](https://orcid.org/0009-0006-9079-7077)
+**Research interests:** algebraic number theory, valued fields, ...  
 
 ## Education
 
