@@ -1,65 +1,64 @@
 ---
 ---
 
-// @import "{{ site.theme }}";
-// @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');
-//
-// body {
-//   font-family: "Fira Mono", "Cascadia Mono", "Menlo", monospace;
-//   font-size: 1rem;
-//   font-weight: 500;
-//   color: #24292e;
-//   background-color: #ffffff;
-//   max-width: 800px;
-//   margin: 0 auto;
-//   padding: 1.5rem;
-// }
-//
-// p {
-//   margin: 0 0 0.5em;
-// }
-//
-// /* Typography */
-// h1 {
-//   font-size: 1.8rem;
-//   margin-top: 0;
-//   margin-bottom: 1em;
-// }
-//
-// h2 {
-//   font-size: 1.5rem;
-//   margin-top: 1em;
-//   margin-bottom: 1em;
-// }
-//
-// a {
-//   color: #0366d6;
-//   text-decoration: none;
-//
-//   &:hover {
-//     text-decoration: underline;
-//   }
-// }
-//
-// /* Lists styling */
-// ul, ol {
-//   padding-left: 2em;
-// }
-//
-// /* Print styles */
-// @media print {
-//   body {
-//     padding: 0;
-//   }
-//
-//   a {
-//     text-decoration: none;
-//     color: #24292e;
-//   }
-//
-//   a[href^="http"]:after {
-//     content: " (" attr(href) ")";
-//     font-size: 90%;
-//   }
-// }
-//
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Cascadia Mono", "Menlo", monospace;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #24292e;
+  background-color: #ffffff;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+p {
+  margin: 0 0 0.5em;
+}
+
+/* Typography */
+h1 {
+  font-size: 1.8rem;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Lists styling */
+ul, ol {
+  padding-left: 2em;
+}
+
+/* Print styles */
+@media print {
+  body {
+    padding: 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: #24292e;
+  }
+
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 90%;
+  }
+}
+
