@@ -1,6 +1,5 @@
-# Curriculum Vitæ
+# Hyeon Seung-Hyeon 玄承賢
 
-**Name:** Hyeon, Seung-Hyeon  
 **Date of birth:** November 19, 1999  
 **Nationality:** Republic of Korea  
 **Pronouns:** he/him  
