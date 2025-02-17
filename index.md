@@ -4,7 +4,7 @@
 **Nationality:** Republic of Korea  
 **Email:** [0stellensatz@gmail.com](mailto:0stellensatz@gmail.com)  
 **Homepage:** [nullstellensatz.org](https://nullstellensatz.org)  
-**ORCID:** [0009-0006-9079-7077](https://orcid.org/0009-0006-9079-7077)
+**ORCID:** [0009-0006-9079-7077](https://orcid.org/0009-0006-9079-7077)  
 **Research interests:** algebraic number theory, valued fields, ...  
 
 ## Education
