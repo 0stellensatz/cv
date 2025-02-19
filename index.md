@@ -11,7 +11,7 @@
 
 **April 2023 —,** _Master's Degree Program_, Department of Mathematics, School of Science, Tokyo Institute of Technology. (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
 
-**April 2019 — March 2023,** _B. Sc. in Mathematics_, Department of Mathematics, School of Science, Tokyo Institute of Technology, valedictorian. (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
+**April 2019 — March 2023,** _B. Sc. in Mathematics_, Department of Mathematics, School of Science, Tokyo Institute of Technology, [valedictorian](https://www.titech.ac.jp/english/news/2023/066235). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
 
 ## Papers
 
