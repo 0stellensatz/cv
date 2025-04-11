@@ -44,3 +44,7 @@ N/A.
 ## Professional Service
 
 N/A.
+
+## Memberships
+
+**Research fellow (core member)** of [the Arithmetic and Homotopic Galois Theory project](https://ahgt.math.cnrs.fr/), an International Research Network between CNRS, RIMS, Lille and ENS PSL.
