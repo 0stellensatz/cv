@@ -21,9 +21,10 @@
 
 ## Talks
 
-1. Ôokayama Daisûkei Wakate Seminar, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
-2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
 3. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
+2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
+1. [Ôokayama Youth Seminar in Algebra](https://ahgt.math.cnrs.fr/activities/#young-researchers-workshops) (Ôokayama Daisûkei Wakate Seminar), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
+{: reversed="reversed"}
 
 ## Honors
 
@@ -33,7 +34,7 @@
 
 **April 2024 — December 2024,** _Japan-Korea Joint Scholarship Program for Science and Engineering Students, Postgraduate._
 
-**April 2024 — March 2025,** _Hasegawa International Scholarship Foundation_.
+**April 2024 — March 2026,** _Hasegawa International Scholarship Foundation_.
 
 **March 2018 — March 2023,** _Japan-Korea Joint Scholarship Program for Science and Engineering Students, Undergraduate_.
 
