@@ -21,7 +21,7 @@
 
 ## Talks
 
-5. [Anabelian Geometry in Yokohama 2025](https://sites.google.com/view/ag-in-yokohama-2025-en/home), _TBA_. (Invited Talk, Kanagawa University, TBA)
+5. [Anabelian Geometry in Yokohama 2025](https://sites.google.com/view/ag-in-yokohama-2025-en/home), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited Talk, Kanagawa University, September 2, 2025)
 4. [The 24th Hiroshima-Sendai Workshop on Number Theory](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Tohoku University, July 11, 2025)
 3. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
 2. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025)
