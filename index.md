@@ -11,7 +11,7 @@
 
 **April 2025 —,** _Doctoral Degree Program_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
 
-**April 2023 — March 2025,** _M. Sc. in Mathematics_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878), Master's Thesis: [On the anabelian geometry of mixed-characteristic local fields](./assets/thesis-master.pdf))
+**April 2023 — March 2025,** _M. Sc. in Mathematics_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
 
 **April 2019 — March 2023,** _B. Sc. in Mathematics_, Department of Mathematics, School of Science, Tokyo Institute of Technology, [valedictorian](https://www.titech.ac.jp/english/news/2023/066235). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
 
