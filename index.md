@@ -1,4 +1,4 @@
-# Hyeon, Seung-Hyeon
+# <span class="name-with-hover" data-chinese-name="玄承賢">Hyeon, Seung-Hyeon</span>
 
 **Date of birth:** November 19, 1999  
 **Nationality:** Republic of Korea  
