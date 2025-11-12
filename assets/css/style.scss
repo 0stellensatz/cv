@@ -4,6 +4,20 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
+@font-face {
+  font-family: 'Sarasa Mono K';
+  src: url('https://cdn.jsdelivr.net/gh/be5invis/Sarasa-Gothic@latest/sarasa-mono-k-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sarasa Mono K';
+  src: url('https://cdn.jsdelivr.net/gh/be5invis/Sarasa-Gothic@latest/sarasa-mono-k-semibold.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
 body {
   font-family: "JetBrains Mono", "Cascadia Mono", "Menlo", monospace;
   font-size: 1rem;
@@ -40,8 +54,7 @@ h1 {
   display: inline-block;
   cursor: help;
 
-  &::after {
-    content: attr(data-chinese-name);
+  .hover-tooltip {
     position: absolute;
     left: 100%;
     transform: translateY(-50%);
@@ -51,19 +64,27 @@ h1 {
     background-color: #333;
     color: #fff;
     border-radius: 4px;
+    font-family: "JetBrains Mono", "Sarasa Mono K", monospace;
     font-size: 0.9rem;
-    font-weight: 400;
-    line-height: 1.5;
-    white-space: pre-line;
-    min-width: max-content;
+    font-weight: 500;
+    line-height: 1.4;
+    white-space: nowrap;
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.3s ease;
     z-index: 1000;
+
+    .hanja {
+      letter-spacing: 0.1em;
+    }
+
+    .hangul {
+      letter-spacing: 0.165em;
+      font-size: 0.98rem;
+    }
   }
 
-  &:hover::after,
-  &:active::after {
+  &:hover .hover-tooltip {
     opacity: 0.95;
   }
 }
