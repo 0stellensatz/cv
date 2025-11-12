@@ -43,10 +43,10 @@ h1 {
 
   .hover-tooltip {
     position: absolute;
-    left: 100%;
-    transform: translateY(-50%);
+    left: 50%;
+    transform: translate(-50%, -50%);
     top: 50%;
-    margin-left: 0.5em;
+    margin-top: -3em;
     padding: 0.5em 1em;
     background-color: #444444;
     color: #fff;
@@ -60,7 +60,7 @@ h1 {
     pointer-events: none;
     transition: opacity 0.3s ease;
     z-index: 1000;
-    
+
     .hanja {
       font-size: 1.3rem;
       font-weight: 700;
@@ -76,6 +76,19 @@ h1 {
 
   &:hover .hover-tooltip {
     opacity: 0.95;
+  }
+}
+
+/* Mobile-specific tooltip positioning */
+@media (max-width: 768px) {
+  .name-with-hover .hover-tooltip {
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: 0;
+    margin-top: -3em;
+    max-width: 90vw;
+    white-space: normal;
+    text-align: center;
   }
 }
 
