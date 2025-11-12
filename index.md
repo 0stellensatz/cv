@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <span class="name-with-hover">Hyeon, Seung-Hyeon<span class="hover-tooltip">Hanja:&nbsp;&nbsp;<span class='hanja'>玄承賢</span><br>Hangul: <span class='hangul'>현승현</span></span></span>
+# <span class="name-with-hover">Hyeon, Seung-Hyeon<span class="hover-tooltip">Hanja: <span class='hanja'>玄承賢</span>, Hangul: <span class='hangul'>현승현</span></span></span>
 
 **Date of birth:** November 19, 1999  
 **Nationality:** Republic of Korea  

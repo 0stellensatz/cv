@@ -3,20 +3,7 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
-
-@font-face {
-  font-family: 'Sarasa Mono K';
-  src: url('https://cdn.jsdelivr.net/gh/be5invis/Sarasa-Gothic@latest/sarasa-mono-k-regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Sarasa Mono K';
-  src: url('https://cdn.jsdelivr.net/gh/be5invis/Sarasa-Gothic@latest/sarasa-mono-k-semibold.woff2') format('woff2');
-  font-weight: 500;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@700&display=swap');
 
 body {
   font-family: "JetBrains Mono", "Cascadia Mono", "Menlo", monospace;
@@ -61,10 +48,10 @@ h1 {
     top: 50%;
     margin-left: 0.5em;
     padding: 0.5em 1em;
-    background-color: #333;
+    background-color: #444444;
     color: #fff;
-    border-radius: 4px;
-    font-family: "JetBrains Mono", "Sarasa Mono K", monospace;
+    border-radius: 6px;
+    font-family: "JetBrains Mono", "Noto Serif KR", monospace;
     font-size: 0.9rem;
     font-weight: 500;
     line-height: 1.4;
@@ -73,14 +60,17 @@ h1 {
     pointer-events: none;
     transition: opacity 0.3s ease;
     z-index: 1000;
-
+    
     .hanja {
-      letter-spacing: 0.1em;
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: 0.1rem;
     }
 
     .hangul {
-      letter-spacing: 0.165em;
-      font-size: 0.98rem;
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: 0.1rem;
     }
   }
 
