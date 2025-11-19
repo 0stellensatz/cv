@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Seung-Hyeon Hyeon
 ---
 
 # <span class="name-with-hover">Hyeon, Seung-Hyeon<span class="hover-tooltip">Hanja: <span class='hanja'>玄承賢</span>, Hangul: <span class='hangul'>현승현</span></span></span>

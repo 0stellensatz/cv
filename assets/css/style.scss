@@ -43,10 +43,10 @@ h1 {
 
   .hover-tooltip {
     position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    left: 100%;
     top: 50%;
-    margin-top: -3em;
+    transform: translateY(-50%);
+    margin-left: 1em;
     padding: 0.5em 1em;
     background-color: #444444;
     color: #fff;
