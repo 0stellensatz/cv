@@ -28,7 +28,7 @@ title: Seung-Hyeon Hyeon
 
 ### 2025
 
-5. [KANTs — KAIST Number Theory seminar](https://sites.google.com/site/wansukimmaths/kants-kaist-number-theory-seminar), 2025 Autumn Semester, Two seminar talks on anabelian geometry, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited Talk, KAIST, November 25, 2025)
+5. [KANTs — KAIST Number Theory seminar](https://sites.google.com/site/wansukimmaths/kants-kaist-number-theory-seminar), 2025 Autumn Semester, Two seminar talks on anabelian geometry, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited Talk, Korea Advanced Institute of Science and Technology (KAIST), November 25, 2025)
 4. [Anabelian Geometry in Yokohama 2025](https://sites.google.com/view/ag-in-yokohama-2025-en/home), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited Talk, Kanagawa University, September 2, 2025)
 3. [The 24th Hiroshima-Sendai Workshop on Number Theory](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Tohoku University, July 11, 2025)
 2. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
@@ -56,7 +56,7 @@ title: Seung-Hyeon Hyeon
 
 ### 2025
 
-1. **Visiting researcher,** Department of Mathematical Sciences, KAIST. (Host: [Wansu Kim](https://sites.google.com/site/wansukimmaths/), Duration: November 25, 2025 — November 28, 2025)
+1. **Visiting researcher,** Department of Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST). (Host: [Wansu Kim](https://sites.google.com/site/wansukimmaths/), Duration: November 25, 2025 — November 28, 2025)
 
 ## Employment
 
