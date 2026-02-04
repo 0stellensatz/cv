@@ -22,7 +22,7 @@ title: Seung-Hyeon Hyeon
 
 ## Papers
 
-1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, Journal of the London Mathematical Society, 112.6 (2025), e70402. (doi:[10.1112/jlms.70402](https://doi.org/10.1112/jlms.70402), Zbl:[08140815](https://zbmath.org/08140815), arXiv:[2405.16950](https://arxiv.org/abs/2405.16950))
+1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, Journal of the London Mathematical Society, 112.6 (2025), e70402. (DOI:[10.1112/jlms.70402](https://doi.org/10.1112/jlms.70402), Zbl:[08140815](https://zbmath.org/08140815), arXiv:[2405.16950](https://arxiv.org/abs/2405.16950))
 
 ## Talks
 
