@@ -38,7 +38,7 @@ title: Seung-Hyeon Hyeon
 
 ### 2024
 
-1. [Ôokayama Youth Seminar in Algebra](https://ahgt.math.cnrs.fr/activities/#young-researchers-workshops) (Ôokayama Daisûkei Wakate Seminar), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
+1. [Ôokayama Youth Seminar in Algebra](https://sites.google.com/view/ookayama-alge-young-reseachers/home) (Ôokayama Daisûkei Wakate Seminar), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Institute of Science Tokyo, November 29, 2024)
 {: reversed="reversed"}
 
 ## Honors
