@@ -61,7 +61,7 @@ title: Seung-Hyeon Hyeon
 
 ## Employment
 
-N/A.
+**April 2026 —,** _[JST FOREST](https://www.jst.go.jp/souhatsu/en/index.html) Research Assistant_, Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. (Supervisor: [Shunsuke Tsuchioka](https://www.kurims.kyoto-u.ac.jp/~tshun/))
 
 ## Professional Service
 
