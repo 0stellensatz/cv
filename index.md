@@ -21,6 +21,10 @@ title: Seung-Hyeon Hyeon
 
 **April 2019 — March 2023,** _B. Sc. in Mathematics_, Department of Mathematics, School of Science, Tokyo Institute of Technology, [valedictorian](https://www.titech.ac.jp/english/news/2023/066235). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
 
+## Employment
+
+**April 2026 —,** _[JST FOREST](https://www.jst.go.jp/souhatsu/en/index.html) Research Assistant_, Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. (Supervisor: [Shunsuke Tsuchioka](https://www.kurims.kyoto-u.ac.jp/~tshun/))
+
 ## Papers
 
 1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, Journal of the London Mathematical Society, 112.6 (2025), e70402. (DOI:[10.1112/jlms.70402](https://doi.org/10.1112/jlms.70402), Zbl:[08140815](https://zbmath.org/08140815), arXiv:[2405.16950](https://arxiv.org/abs/2405.16950))
@@ -58,10 +62,6 @@ title: Seung-Hyeon Hyeon
 ### 2025
 
 1. **Visiting researcher,** Department of Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST). (Host: [Wansu Kim](https://sites.google.com/site/wansukimmaths/), Duration: November 25, 2025 — November 28, 2025)
-
-## Employment
-
-**April 2026 —,** _[JST FOREST](https://www.jst.go.jp/souhatsu/en/index.html) Research Assistant_, Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. (Supervisor: [Shunsuke Tsuchioka](https://www.kurims.kyoto-u.ac.jp/~tshun/))
 
 ## Professional Service
 
