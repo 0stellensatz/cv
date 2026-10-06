@@ -23,7 +23,7 @@ title: Seung-Hyeon Hyeon
 
 ## Employment
 
-**April 2027 —,** _[JSPS Research Fellowships for Young Scientists (DC2)](https://www.jsps.go.jp/english/e-pd/)_, Department of Mathematics, Institute of Science Tokyo. (Supervisor: [Yuichiro Taguchi](https://www.math.titech.ac.jp/top/~taguchi/))
+**April 2027 —,** _[JSPS Research Fellow](https://www.jsps.go.jp/english/e-pd/index.html)_, Department of Mathematics, Institute of Science Tokyo. (Category: DC2, Supervisor: [Yuichiro Taguchi](https://www.math.titech.ac.jp/top/~taguchi/))
 
 **April 2026 —,** _[JST FOREST](https://www.jst.go.jp/souhatsu/en/index.html) Research Assistant_, Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. (Supervisor: [Shunsuke Tsuchioka](https://www.kurims.kyoto-u.ac.jp/~tshun/))
 
@@ -53,9 +53,11 @@ title: Seung-Hyeon Hyeon
 
 ## External Fundings / Grants
 
-**April 2024 — December 2024,** _Japan-Korea Joint Scholarship Program for Science and Engineering Students, Postgraduate._
+**April 2027 —,** _[Grant-in-Aid for JSPS Fellows](https://www.jsps.go.jp/english/e-pd/index.html)_, _TBA_. (Project Number: _TBA_)
 
-**April 2024 — March 2026,** _Hasegawa International Scholarship Foundation_.
+**April 2024 — March 2026,** _[Hasegawa International Scholarship Foundation](https://www.hasegawa-zaidan.or.jp)_.
+
+**April 2024 — December 2024,** _Japan-Korea Joint Scholarship Program for Science and Engineering Students, Postgraduate._
 
 **March 2018 — March 2023,** _Japan-Korea Joint Scholarship Program for Science and Engineering Students, Undergraduate_.
 
