@@ -15,13 +15,15 @@ title: Seung-Hyeon Hyeon
 
 ## Education
 
-**April 2025 —,** _Doctoral Degree Program_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
+**April 2025 —,** _Doctoral Degree Program_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.math.titech.ac.jp/top/~taguchi/))
 
-**April 2023 — March 2025,** _M. Sc. in Mathematics_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
+**April 2023 — March 2025,** _M. Sc. in Mathematics_, Department of Mathematics, School of Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology). (Supervisor: [Yuichiro Taguchi](https://www.math.titech.ac.jp/top/~taguchi/))
 
-**April 2019 — March 2023,** _B. Sc. in Mathematics_, Department of Mathematics, School of Science, Tokyo Institute of Technology, [valedictorian](https://www.titech.ac.jp/english/news/2023/066235). (Supervisor: [Yuichiro Taguchi](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174878))
+**April 2019 — March 2023,** _B. Sc. in Mathematics_, Department of Mathematics, School of Science, Tokyo Institute of Technology, [valedictorian](https://www.titech.ac.jp/english/news/2023/066235). (Supervisor: [Yuichiro Taguchi](https://www.math.titech.ac.jp/top/~taguchi/))
 
 ## Employment
+
+**April 2027 —,** _[JSPS Research Fellowships for Young Scientists (DC2)](https://www.jsps.go.jp/english/e-pd/)_, Department of Mathematics, Institute of Science Tokyo. (Supervisor: [Yuichiro Taguchi](https://www.math.titech.ac.jp/top/~taguchi/))
 
 **April 2026 —,** _[JST FOREST](https://www.jst.go.jp/souhatsu/en/index.html) Research Assistant_, Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. (Supervisor: [Shunsuke Tsuchioka](https://www.kurims.kyoto-u.ac.jp/~tshun/))
 
