@@ -29,14 +29,14 @@ title: Seung-Hyeon Hyeon
 
 ## Papers
 
-1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, Journal of the London Mathematical Society, 112.6 (2025), e70402. (DOI:[10.1112/jlms.70402](https://doi.org/10.1112/jlms.70402), Zbl:[08140815](https://zbmath.org/08140815), arXiv:[2405.16950](https://arxiv.org/abs/2405.16950))
+1. Seung-Hyeon Hyeon, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_, Journal of the London Mathematical Society, 112.6 (2025), e70402. (DOI: [10.1112/jlms.70402](https://doi.org/10.1112/jlms.70402), Zbl: [08140815](https://zbmath.org/08140815), arXiv: [2405.16950](https://arxiv.org/abs/2405.16950))
 
 ## Talks
 
 ### 2025
 
-5. [KANTs — KAIST Number Theory seminar](https://sites.google.com/site/wansukimmaths/kants-kaist-number-theory-seminar), 2025 Autumn Semester, Two seminar talks on anabelian geometry, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited Talk, Korea Advanced Institute of Science and Technology (KAIST), November 25, 2025)
-4. [Anabelian Geometry in Yokohama 2025](https://sites.google.com/view/ag-in-yokohama-2025-en/home), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited Talk, Kanagawa University, September 2, 2025)
+5. [KANTs — KAIST Number Theory seminar](https://sites.google.com/site/wansukimmaths/kants-kaist-number-theory-seminar), 2025 Autumn Semester, Two seminar talks on anabelian geometry, _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited talk, Korea Advanced Institute of Science and Technology (KAIST), November 25, 2025)
+4. [Anabelian Geometry in Yokohama 2025](https://sites.google.com/view/ag-in-yokohama-2025-en/home), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Invited talk, Kanagawa University, September 2, 2025)
 3. [The 24th Hiroshima-Sendai Workshop on Number Theory](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Tohoku University, July 11, 2025)
 2. [Kyushu Algebraic Number Theory 2025](https://sites.google.com/view/kyushuant2025), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Kyushu University, March 5, 2025)
 1. [Algebraic Number Theory and Related Topics 2024](https://sites.google.com/view/rims-ant-2024/english?authuser=0), _"The m-step solvable anabelian geometry of mixed-characteristic local fields"_. (Research Institute for Mathematical Sciences (RIMS), Kyoto University, January 7, 2025. See also: [RIMS Kôkyûroku No.2332](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2332.html))
@@ -53,7 +53,7 @@ title: Seung-Hyeon Hyeon
 
 ## External Fundings / Grants
 
-**April 2027 —,** _[Grant-in-Aid for JSPS Fellows](https://www.jsps.go.jp/english/e-pd/index.html)_, _TBA_. (Project Number: _TBA_)
+**April 2027 —,** _[Grant-in-Aid for JSPS Fellows](https://www.jsps.go.jp/english/e-pd/index.html)_, _TBA_. (Project number: _TBA_)
 
 **April 2024 — March 2026,** _[Hasegawa International Scholarship Foundation](https://www.hasegawa-zaidan.or.jp)_.
 
